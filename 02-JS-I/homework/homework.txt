@@ -1,0 +1,31 @@
+CONCEPTOS:
+
+-Variables: las variables son cajitas donde uno puede guardar algo, en este caso, guardamos datos. 
+Hay diferentes cajitas(es decir, variables), algunas nos permiten cambiar lo que tenemos adentro y además
+verlas o no de lugares diferentes (scope).
+
+-Strings: son como un hilo que une caracteres. ejemplos pueden ser: las palabras que usamos, letras,
+letras con numeros, con signos, etc. Por ejemplo todo este párrafo puede ser un string, o la suma de
+muchos string! Siempre deben estar encerradas entre comillas dobles o simples.( ejemplo: "este es 
+un string", 'este es otro')
+
+-Funciones: las funciones son bloques de código que vamos a volver a usar en otro momento, y sirve
+para no tener que volver a escribir algo que ya hicimos. Pueden recibir valores(argumentos),
+para darle dinámica al código y obtener con ella diferentes resultados. La única forma de acceder por fuera
+a lo que hace la función es a través del return, el cual finaliza con la ejecución del código.
+
+-If: a veces vamos a necesitar diferenciar un resultado de otro, y esto se puede controlar a través de la 
+sentencia if else. Lo que hace es ejecutar un bloque de código si la condición que se especifica se cumple
+o no se cumple. Existen dos posibilidades, que se cumpla o que no se cumpla. Con esto podemos escribir un bloque 
+de código para cada posibilidad y así obtener resultados diferentes.
+
+-Valores booleanos: son la base de todo sistema ya que depende siempre de dos valores. En la sentencia if 
+es fundamental ya que dependiendo del valor booleando obtenido se define un bloque de código u otro. 
+Estos valores pueden ser true (verdadero) o false (falso).
+
+
+
+
+
+
+
