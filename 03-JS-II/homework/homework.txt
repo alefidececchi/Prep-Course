@@ -1,0 +1,16 @@
+CONCEPTOS: 
+
+-For: es una sentencia que permite repetir un bloque de código hasta que se deje de cumplir la condición
+que uno especifica en su estructura. Digamos que es un bucle, pero controlado, ya que si no nos aseguramos
+de que la condición en algún momento sea falsa, el código va a ejecutarse infinitamente hasta que explote tu 
+computadora (naaaa mentira, no va a explotar). La estructura del ciclo For tiene tres partes, la primera donde
+declaramos una variable (que va a funcionar como un contador) y le asignamos un valor inicial, la segunda 
+parte es donde va la condición (que debe dejar de cumplirse en algún momento), y la tercera es donde le 
+agregamos o quitamos un valor a la variable para que comience nuevamente el siguiente ciclo.
+
+-&&, ||, ! (operadores lógicos): el "&&" y "||" nos permiten combinar dos o más expresiones booleanas 
+dentro de una misma condición. La única forma para que "&&" ("AND") retorne true es que las dos expresiones que la 
+rodean sean true, si alguna de ellas es false, el operador retorna false. En cambio con el operador "||" ("OR")
+para devolver un true busca que sólo una de sus expresiones sea true. La única manera de que este
+devuelva false es que TODAS las expresiones sean false. El operador !("NOT"), debe ir antes de la expresión
+y su función es negarla, es decir, invertir su valor booleano.
