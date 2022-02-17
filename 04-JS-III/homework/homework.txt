@@ -1,0 +1,10 @@
+CONCEPTOS:
+
+-Arrays: un array es como una cajita, en cual se almacena cualquier cantidad y tipo de datos. 
+Los arreglos se definen entre corchetes "[]" y podemos agregar, quitar, modificarlos como queramos. Para 
+acceder a algún dato en particular debemos referirnos de acuerdo a su posición en el arreglo. El primer 
+elemento del arreglo SIEMPRE va a tener la posición 0. El segundo elemento va a tener la posicón 1, y así 
+sucesivamente. Ej: nombreArray[0] (esta expresión hace referencia al primer elemento). Por lo tanto podemos 
+decir que un arreglo es una matriz, ya que los valores que se encuentran dentro están indexados, es decir,
+tienen una posición asignada. Para agregar, quitar datos de los arreglos debemos utilizar funciones propias
+de estos, como son por ejemplo .push(), pop(), .shift(), .unshift(), entre otras.
