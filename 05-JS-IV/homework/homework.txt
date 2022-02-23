@@ -1,0 +1,22 @@
+CONCEPTOS: 
+
+-Objetos, propiedades, notaciones de punto y corchetes: 
+    Los objetos son una colección de pares key-value. Las propiedades son pares key-value. Los objetos
+se inicializan con "{}" y se utilizan para almacenar mucha información acerca de una misma cosa. Para acceder 
+a los valores, utilizamos el nombre del objeto y la key. Existen dos formas diferentes de notación, de puntos 
+y de corchetes. ejemplo: nombreObjeto.key2 o nombreObjeto["key2"]. Dentro de los corechetes debemos utilizar 
+comillas ("") si nos referimos a la key de la propiedad, en cambio si el nombre de la propiedad está almacenada
+en una variable, utilizamos corechetes con la variable sin comillas. ej: nombreObjeto[color]
+
+-Métodos: llamamos métodos a las propiedades que contienen funciones. Usamos la key para dar nombre a esta
+función y el valor para definirla. Para invocar a los métodos, debemos utilizar la notación de puntos y 
+los parentesis, es decir, nombreObjeto.metodo()
+
+-bucle for...in: utilizamos este bucle para iterar sobre todas las claves de un objeto, al igual que un array,
+solo que en el objeto puede que no conozcamos el nombre de todas las propiedades para acceder a su valor, así 
+que utilizaremos una variable para referirnos a la clave actual y así trabajar cada una para obtener o modificar
+lo que buscamos. Su sintaxis es: 
+for(let clave in nombreObjeto) {
+    //bloque de código
+    };
+    
