@@ -5,6 +5,6 @@ si nosotros almacenáramos el método dentro de la función constructora, cada v
 sentido porque el método(es decir la función) va a ser siempre igual. Es como si para cada arreglo que se creara, también se crease una nuva función map para ese arreglo. Toda propiedad
 que se encuentra en prototype está un nivel superior, que va a hacer descender el método en caso de que sea invocado.
 
--_Constructrs_ : la función constructora de una clase es la primer función que se ejecuta cuando es definida una nueva instancia de la clase. En ella se definen las 
+-_Constructors_ : la función constructora de una clase es la primer función que se ejecuta cuando es definida una nueva instancia de la clase. En ella se definen las 
 propiedades que va a tener cada instancia con su valor. El constructor de cualquier funcion se encuentra dentro del prototype, donde están definidos además otros métodos y 
 propiedades
