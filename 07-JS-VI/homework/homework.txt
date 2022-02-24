@@ -1,0 +1,5 @@
+CONCEPTOS:
+
+-Funciones Callback: las funciones en JvasScript son denominadas del tipo "first class", es decir, que son tratadas como cualquier otro objeto. Es por eso, que una función puede 
+puede recibir como argumento a otra función, como si recibiese un arreglo, un objeto, un numero, etc. Las funciones que se utilizan como argumento de otra función son lo que 
+llamamos funciones callback. Lo que a su vez, estas funciones(callbacks) pueden tener sus propios argumentos.  
